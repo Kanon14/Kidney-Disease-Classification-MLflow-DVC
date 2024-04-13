@@ -47,3 +47,23 @@ Now,
 ```bash
 open up you local host and port
 ```
+
+## MLflow
+
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+Run this to export as env variables:
+
+```bash
+
+set MLFLOW_TRACKING_URI=https://dagshub.com/Kanon14/Kidney-Disease-Classification-MLflow-DVC.mlflow 
+
+set MLFLOW_TRACKING_USERNAME=Kanon14 
+
+set MLFLOW_TRACKING_PASSWORD=2a57f710b92c4261b14ebc77457c63fc1b2320f4
+
+```
