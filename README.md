@@ -67,3 +67,9 @@ set MLFLOW_TRACKING_USERNAME=Kanon14
 set MLFLOW_TRACKING_PASSWORD=2a57f710b92c4261b14ebc77457c63fc1b2320f4
 
 ```
+
+
+### DVC cmd
+1. dvc init
+2. dvc repro
+3. dvc dag
